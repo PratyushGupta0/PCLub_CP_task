@@ -29,6 +29,7 @@ B index.
 Every query and output must be on a separate line. 
 
 Example input:
+
 1
 
 3
