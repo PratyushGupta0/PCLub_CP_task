@@ -1,4 +1,4 @@
-nclude <vector>
+#include <vector>
 #define ar array
 #define ll long long
 #define input(n) long int n; cin >> n;
