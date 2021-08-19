@@ -33,15 +33,23 @@ Example input:
 
 3
 
-Example output:            Interactor output:
-? 1                             3
+Example output:            
+? 1                             
 
-? 2                             1
+? 2                             
 
-? 3                             2
+? 3                             
 
 A 2
 
 B 1
+
+Interactor output:
+
+3
+
+1
+
+2
 
 Here index 1 and 3 are a strong point so we output one of them and index 2 is a weak point.
