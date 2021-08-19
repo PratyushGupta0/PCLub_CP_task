@@ -1,3 +1,4 @@
+                                                      time limit=2.5 seconds
 John is the commander of an army battalion .In front of him is a mountain range containing 'n' mountains. All of the mountains happen to have distinct heights from
 to 'n' inclusive.In his battalion there are two types of troops, let us say X and Y. And he has been given certain orders by the high command, which are as follows:
 
