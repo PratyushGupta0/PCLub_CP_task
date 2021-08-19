@@ -30,13 +30,18 @@ Every query and output must be on a separate line.
 
 Example input:
 1
+
 3
 
 Example output:            Interactor output:
 ? 1                             3
-? 2                             1 
+
+? 2                             1
+
 ? 3                             2
+
 A 2
+
 B 1
 
 Here index 1 and 3 are a strong point so we output one of them and index 2 is a weak point.
