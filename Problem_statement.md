@@ -6,7 +6,7 @@ to 'n' inclusive.In his battalion there are two types of troops, let us say X an
    neighbours , it must be higher than both of them, and if it has just a single neighbour(the mountain is at the ends of the mountain range) , it must be higher 
    than its neighbour.
   
-2) The troops of type Y are block a weak point.A weak point is defined as a mountain which is lower than whatever neighbours it has. If it has two 
+2) The troops of type Y are blocking a weak point.A weak point is defined as a mountain which is lower than whatever neighbours it has. If it has two 
    neighbours , it must be lower than both of them, and if it has just a single neighbour(the mountain is at the ends of the mountain range) , it must be lower 
    than its neighbour.
  It is possible that both the X and Y troops are sent to the same position.
